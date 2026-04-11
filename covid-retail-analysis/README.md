@@ -1,28 +1,31 @@
 # COVID-19 Retail Analysis (2024)
 
 ## Module
-First year Data Science module (2024)
+Data Science module – Year 1
 
-## Project topic
-Analysing the impact of COVID-19 on retail businesses in the UK using data science techniques.
+## Project Topic
+Analysed the impact of COVID-19 on UK retail businesses using data science techniques.
 
-## Tools used
+## Tools Used
 Python  
 Jupyter Notebook  
 Pandas  
-Machine Learning  
+Random Forest Machine Learning  
 Data visualisation  
 
 ## What I did
-- Collected data from the Office for National Statistics (ONS)
-- Cleaned the dataset
-- Analysed online vs in-store shopping trends
-- Used machine learning (Random Forest)
-- Compared predicted vs actual values
+- Collected UK retail data from the Office for National Statistics (ONS)
+- Cleaned and prepared the dataset
+- Analysed trends in online vs in-store shopping
+- Built a Random Forest machine learning model
+- Compared predicted vs actual values using graphs
 
-## Result
-Found a clear increase in online shopping during COVID-19 lockdown periods.
-Machine learning model showed strong predictive performance.
+## Results
+The analysis showed a strong increase in online shopping during COVID lockdown periods.
+
+## Note about code
+The university submission required screenshots of the code rather than the full notebook file.
+Screenshots of the analysis and model results are included in the report.
 
 ## Grade
 63%
