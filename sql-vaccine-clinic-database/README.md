@@ -4,7 +4,7 @@
 Database Systems & Security
 
 ## Grade
-74%
+2.1
 
 ## Project Overview
 Designed and implemented a relational SQL database for a vaccine clinic business scenario.
