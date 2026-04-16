@@ -1,34 +1,79 @@
-# My Data Analytics Portfolio
+# Trevor Mukuve – Data Science Portfolio
 
-Hi, I'm a Data Scientist student interested in statistics, machine learning and data science.
+MSc Computer Science (Data Science) student with experience in machine learning, statistics, and data analysis.
 
-This GitHub shows my university projects.
+This portfolio contains selected university projects demonstrating practical skills in predictive modelling, statistical analysis, data visualisation, and database design.
 
-## Skills
-- Python
-- SQL
-- Excel
-- Statistics
-- Machine Learning
-- Data Visualisation
+My work focuses on solving real-world problems using data-driven methods and interpretable machine learning techniques.
 
-## University Modules
+---
 
-### Statistics
-Projects using hypothesis testing and regression.
+# Key Skills
+
+Python  
+R  
+SQL  
+Machine Learning  
+Statistical Analysis  
+Data Visualisation (Tableau)  
+Data Cleaning & Preprocessing  
+Model Evaluation  
+Research & Analytical Thinking  
+
+---
+
+# Featured Projects
+
+### MSc Dissertation – Adverse Drug Reaction Prediction
+Machine learning models predicting adverse drug reactions using healthcare data. Includes Logistic Regression, SVC, ROC analysis, and SHAP explainability.
+
+### Machine Learning Model Comparison
+Regression and classification modelling using multiple algorithms including Random Forest, SVM, and Naïve Bayes.
+
+### Statistical Analysis in R
+Statistical modelling investigating relationships between clinical variables using hypothesis testing and regression techniques.
+
+---
+
+# University Modules
 
 ### Machine Learning
-Projects using classification and clustering.
+Regression and classification modelling using Python.
 
-### Databases (SQL)
-Projects designing databases and writing queries.
+### Statistics for AI & Data Science
+Statistical analysis and modelling using R.
+
+### Data Mining and Informatics
+End-to-end machine learning workflow including preprocessing and evaluation.
+
+### Database Systems & Security
+Design and implementation of relational SQL database systems.
 
 ### Data Visualisation
-Dashboards built using Power BI or Tableau.
+Dashboard design and data storytelling using Tableau.
 
-### Dissertation
-My final year research project.
+### Networks & the Internet
+Network design and evaluation using simulation tools.
 
-## Contact
-LinkedIn: add later
-Email: add later
+### Virtualisation and Cloud Computing
+Cloud migration strategies and security considerations.
+
+### Project Management
+Application of project management principles in business environments.
+
+---
+
+# Tools Used
+
+Python (pandas, numpy, scikit-learn)  
+R (statistical modelling)  
+SQL  
+Tableau  
+Jupyter Notebook  
+
+---
+
+# Contact
+
+LinkedIn (add link later)
+Email (add later)
