@@ -4,7 +4,7 @@
 Concepts & Technologies of Artificial Intelligence
 
 ## Grade
-63%
+2.1
 
 ## Project Overview
 This project applies machine learning algorithms to real-world datasets for both regression and classification tasks.
