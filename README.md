@@ -1,6 +1,6 @@
 # My Data Analytics Portfolio
 
-Hi, I'm a Data Analytics student interested in statistics, machine learning and data science.
+Hi, I'm a Data Scientist student interested in statistics, machine learning and data science.
 
 This GitHub shows my university projects.
 
