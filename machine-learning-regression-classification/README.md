@@ -1,4 +1,4 @@
-# Machine Learning – Regression and Classification (2024)
+# Machine Learning – Regression and Classification (2025)
 
 ## Module
 Concepts & Technologies of Artificial Intelligence
