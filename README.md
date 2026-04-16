@@ -75,5 +75,5 @@ Jupyter Notebook
 
 # Contact
 
-LinkedIn (add link later)
-Email (add later)
+LinkedIn (www.linkedin.com/in/trevor-mukuve-809407228)
+Email (Trevor.mukuve@outlook.com)
